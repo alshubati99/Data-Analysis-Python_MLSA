@@ -1,5 +1,5 @@
 # Prepare your data using Python and VS Code
-*Workshop Hosted by Alpha Microsoft Learn Student Ambassador [Himmatsingh Bhagwanisingh deora](https://www.linkedin.com/in/himmat-singh-deora-06b83a190/) and Cohosted by Beta Microsof Learn Student Ambassador [Khawlah Alshubati](https://www.linkedin.com/in/khawlah-alshubati/)*
+*Workshop Hosted by Alpha MLSA [Himmatsingh Bhagwanisingh deora](https://www.linkedin.com/in/himmat-singh-deora-06b83a190/) and Cohosted by Beta MLSA [Khawlah Alshubati](https://www.linkedin.com/in/khawlah-alshubati/)*
 
 ### What is MLSA?
 With Microsoft Learn Student Ambassadors Program you can amplify your impact and establish yourself as a mentor and leader in your community while developing the technical skills and emotional intelligence you need to succeed. [**Application Link**](https://studentambassadors.microsoft.com/?wt.mc_id=studentamb_211042)
