@@ -74,7 +74,7 @@ So far, you've learned how to use pandas methods to examine some aspects of a Da
 To test your knowledge, try downloading a free dataset from [Kaggle](https://www.kaggle.com/datasets) that you find interesting. Use the techniques that you learned in this workshop to manipulate and clean your data!
 
 ## Feedback
-[Send you feedback here](https://forms.office.com/r/APc4xZsV3R)
+[Send us your feedback about this workshop here](https://forms.office.com/r/APc4xZsV3R)
 
 
 
