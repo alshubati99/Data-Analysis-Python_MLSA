@@ -1,4 +1,5 @@
 # Prepare your data using Python and VS Code
+*Workshop Hosted by [Himmatsingh Bhagwanisingh deora](https://www.linkedin.com/in/himmat-singh-deora-06b83a190/) and Cohosted by [Khawlah Alshubati](https://www.linkedin.com/in/khawlah-alshubati/)*
 
 ## Module Source
 
@@ -13,15 +14,15 @@ In this workshop, you will learn how to use Python, and popular libraries like N
 | **What will you learn**       | How to find information about, clean, and prepare data that's stored in a pandas DataFrame.                                       |
 | **What you'll need**          | [Visual Studio Code environment set up to run Python and Jupyter notebooks](https://docs.microsoft.com/learn/modules/python-data-science/1-introduction?wt.mc_id=studentamb_211042) |
 | **Duration**                  | 1 hr 20 min                   |                     
-| **Just want to try the app or see the solution?** | [Solution](solution/)                          |
+| **Just want to try the app or see the solution?** | [Solution](https://github.com/alshubati99/Data-Analysis-Python_MLSA/tree/master/clean-prepare-data-python/solution)                          |
 
 ## Pre-Learning
-- [Introduction to Python](https://docs.microsoft.com/learn/modules/python-data-science/?WT.mc_id=studentamb_211042)
+- [Introduction to Python](https://docs.microsoft.com/learn/modules/python-data-science/?wt.mc_id=studentamb_211042)
 - [Introduction to the NumPy and pandas libraries for data science](https://docs.microsoft.com/learn/modules/pandas-data-science/?wt.mc_id=studentamb_211042)
 
 ## Prerequisites
 
-- [Visual Studio Code](https://code.visualstudio.com?WT.mc_id=studentamb_211042)
+- [Visual Studio Code](https://code.visualstudio.com?wt.mc_id=studentamb_211042)
 - [Python](https://www.python.org/downloads/)
 - [Python extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 - [Jupyter extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
@@ -32,7 +33,7 @@ In this workshop, you will learn how to use Python, and popular libraries like N
 
 Say you want to perform some analysis on a dataset that you find interesting -- like the [squirrel population of Central Park](https://www.thesquirrelcensus.com/), or [various types of French cheese](https://www.kaggle.com/mathurinache/french-cheese-detection). The first thing you'll need to do with any dataset is to clean it up. Many datasets have missing information, or won't be formatted in the exact way you'd like. In this workshop, you will learn how to use data science libraries to prepare your data for analysis and visualization.
 
-![image of completed project](images/visualizations.png)
+![image of completed project](https://github.com/alshubati99/Data-Analysis-Python_MLSA/blob/master/clean-prepare-data-python/images/visualizations.png)
 
 ## Introduction
 
@@ -69,9 +70,5 @@ So far, you've learned how to use pandas methods to examine some aspects of a Da
 
 To test your knowledge, try downloading a free dataset from [Kaggle](https://www.kaggle.com/datasets) that you find interesting. Use the techniques that you learned in this workshop to manipulate and clean your data!
 
-## Feedback
 
-Be sure to give [feedback about this workshop](https://forms.office.com/r/MdhJWMZthR)!
-
-[Code of Conduct](../../CODE_OF_CONDUCT.md)
 
