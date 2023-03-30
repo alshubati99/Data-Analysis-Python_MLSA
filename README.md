@@ -21,7 +21,8 @@ In this workshop, you will learn how to use Python, and popular libraries like N
 
 ## Pre-Learning
 - [Introduction to Python](https://docs.microsoft.com/learn/modules/python-data-science/?wt.mc_id=studentamb_211042)
-- [Introduction to the NumPy and pandas libraries for data science](https://docs.microsoft.com/learn/modules/pandas-data-science/?wt.mc_id=studentamb_211042)
+- [Introduction to panda library for data science](https://docs.microsoft.com/learn/modules/pandas-data-science/?wt.mc_id=studentamb_211042)
+- [Introduction to NumPy library for data science](https://learn.microsoft.com/en-us/training/modules/numpy-data-science/?wt.mc_id=studentamb_211042)
 
 ## Prerequisites
 
