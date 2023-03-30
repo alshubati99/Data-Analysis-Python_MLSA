@@ -21,7 +21,8 @@ In this workshop, you will learn how to use Python, and popular libraries like N
 
 ## Pre-Learning
 - [Introduction to Python](https://docs.microsoft.com/learn/modules/python-data-science/?wt.mc_id=studentamb_211042)
-- [Introduction to the NumPy and pandas libraries for data science](https://docs.microsoft.com/learn/modules/pandas-data-science/?wt.mc_id=studentamb_211042)
+- [Introduction to the panda library for data science](https://docs.microsoft.com/learn/modules/pandas-data-science/?wt.mc_id=studentamb_211042)
+- [Introduction to NumPy for data science](https://learn.microsoft.com/en-us/training/modules/numpy-data-science/?wt.mc_id=studentamb_211042)
 
 ## Prerequisites
 
@@ -72,6 +73,9 @@ So far, you've learned how to use pandas methods to examine some aspects of a Da
 ## Practice
 
 To test your knowledge, try downloading a free dataset from [Kaggle](https://www.kaggle.com/datasets) that you find interesting. Use the techniques that you learned in this workshop to manipulate and clean your data!
+
+## Feedback
+[Send us your feedback about this workshop here](https://forms.office.com/r/APc4xZsV3R)
 
 
 
