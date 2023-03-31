@@ -1,6 +1,8 @@
 # Prepare your data using Python and VS Code
 *Workshop Hosted by Alpha MLSA [Himmatsingh Bhagwanisingh deora](https://www.linkedin.com/in/himmat-singh-deora-06b83a190/) and Cohosted by Beta MLSA [Khawlah Alshubati](https://www.linkedin.com/in/khawlah-alshubati/)*
 
+[**Workshop Link**](  https://stdntpartners-my.sharepoint.com/:v:/g/personal/himmatsinghbhagwansi_deora_studentambassadors_com/EUFI_8Pm_X5CgqvwZDrQjT0BqRovYLZyu0-Rm20laFaq9A?e=vMjp8G)
+
 ### What is MLSA?
 With **M**icrosoft **L**earn **S**tudent **A**mbassadors Program you can amplify your impact and establish yourself as a mentor and leader in your community while developing the technical skills and emotional intelligence you need to succeed. [**Application Link**](https://studentambassadors.microsoft.com/?wt.mc_id=studentamb_211042)
 
